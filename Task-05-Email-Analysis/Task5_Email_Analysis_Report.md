@@ -61,7 +61,3 @@ Analyze a potentially malicious email to identify phishing indicators, inspect e
 This email is a **phishing attempt** using social engineering, urgency, domain spoofing, and malicious links to steal credentials. A well-trained user or proper security gateway could detect and prevent this attack.
 
 ---
-
-**Prepared by**: A K M Kawser Ahmed  
-**Internship Program**: Future Intern  
-**Task**: #5 – Email Analysis
