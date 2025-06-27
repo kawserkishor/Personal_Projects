@@ -58,8 +58,3 @@ This task demonstrates how trivial it is to crack weak passwords using open-sour
 Even simple tools like John the Ripper can easily break common passwords like password123. This underscores the critical importance of secure password storage and usage practices.
 
 ⸻
-
-Prepared by: A K M Kawser Ahmed
-Internship Program: Future Intern
-Task: #4 – Password Cracking
- 
