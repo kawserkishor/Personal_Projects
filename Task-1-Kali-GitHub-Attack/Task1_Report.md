@@ -1,7 +1,7 @@
 -
 ## STEP 1: Advance Linux Commands:
 
-[image advanced command part 1](iamge.png)
+[image advanced command part 1](image.png)
 [image advanced command part 2](image_1.png)
 
 ## STEP 2: Installing GitHub Tools
