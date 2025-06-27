@@ -69,7 +69,3 @@ This task clearly demonstrates how insecure web traffic can be intercepted using
 > Sniffing is trivial when the application doesn't use encryption. Always use HTTPS.
 
 ---
-
-**Prepared by**: A K M Kawser Ahmed  
-**Internship Program**: Future Intern  
-**Task**: #3 – Sniffing Attack with Wireshark
