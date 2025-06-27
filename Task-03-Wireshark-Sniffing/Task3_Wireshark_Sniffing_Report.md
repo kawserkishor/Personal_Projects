@@ -33,14 +33,14 @@ This task demonstrates how sensitive information, like login credentials, can be
 - Applied the display filter in Wireshark: http.request.method == “POST”
 - Located the `POST` request to `/login.php`
 
-> 🖼️ **[Insert Screenshot Here: Wireshark showing filtered POST request packet]**
 > <img width="1322" alt="image" src="https://github.com/user-attachments/assets/82193beb-fae5-4a4c-b2ef-6348856141c2" />
 
 
 ### Step 4: Extracting Plaintext Credentials
 - Right-clicked on the HTTP POST request → `Follow > HTTP Stream`
 - Observed the full raw HTTP request containing: uname=admin&pass=admin&submit=submit
-- > 🖼️ **[Insert Screenshot Here: HTTP stream showing captured credentials in plaintext]**
+- > <img width="682" alt="image" src="https://github.com/user-attachments/assets/adb4563e-1343-4a26-8fde-6a722ba876bc" />
+
 
 ---
 
