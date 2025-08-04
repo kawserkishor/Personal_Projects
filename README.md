@@ -1,7 +1,7 @@
-# Internship_Tasks
-This repo will contain every task from the internship program of Future Intern.
+# Personal Projects
+This repo will contain every task I complete to practice different projects and topics
 
-There are 5 tasks provided in the task list, but you need to complete only three to complete the internship.
+Here are some tasks I have decided to complete in the first phase.
 
 # Task 1
 Kali Linux - Hands-on
